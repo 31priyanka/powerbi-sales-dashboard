@@ -43,3 +43,5 @@ Highlighted underperforming segments with low profitability
 Observed that a small percentage of customers contribute significantly to total revenue
 
 Detected trends in sales performance across different time periods
+<img width="1171" height="647" alt="Sales Dashboard Preview" src="https://github.com/user-attachments/assets/d7e9e62b-01c7-465e-9180-74c914d399d8" />
+
