@@ -51,7 +51,8 @@ The primary objective of this project is to:
 ---
 
 ## 📸 Dashboard Preview
-<img width="1171" height="647" alt="Sales Dashboard Preview" src="https://github.com/user-attachments/assets/d7e9e62b-01c7-465e-9180-74c914d399d8" />
+<img width="1423" height="742" alt="Sales Dashboard Preview" src="https://github.com/user-attachments/assets/88cc072e-430a-42dd-9353-64eea585de9d" />
+
 
 ---
 
